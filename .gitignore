@@ -1,0 +1,36 @@
+# Maven
+target/
+.m2/
+*.jar
+*.war
+
+# Spring Boot
+.DS_Store
+.env
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.classpath
+.project
+.settings/
+*.iml
+
+# Angular
+node_modules/
+dist/
+.angular/
+package-lock.json
+
+# Database
+data/
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
